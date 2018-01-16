@@ -3,4 +3,4 @@ software design implementation
 ## project description
 ## student
 ## tutor
-pedro machado<pedro.baptistamachado@ntu.ac.uk>
+pedro machado <pedro.baptistamachado@ntu.ac.uk>
